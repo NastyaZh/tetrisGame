@@ -1,0 +1,17 @@
+N:\study01\tetris\tetrisGame\bin\Debug\tetrisGame.exe.config
+N:\study01\tetris\tetrisGame\bin\Debug\tetrisGame.exe
+N:\study01\tetris\tetrisGame\bin\Debug\tetrisGame.pdb
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.csproj.AssemblyReference.cache
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.csproj.SuggestedBindingRedirects.cache
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.Properties.Resources.resources
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.csproj.GenerateResource.cache
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.csproj.CoreCompileInputs.cache
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.exe
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.pdb
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.Views.GameView.resources
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.Views.MenuView.resources
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.Views.View.resources
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.Views.CreateView.resources
+N:\study01\tetris\tetrisGame\bin\Debug\Newtonsoft.Json.dll
+N:\study01\tetris\tetrisGame\bin\Debug\Newtonsoft.Json.xml
+N:\study01\tetris\tetrisGame\obj\Debug\tetrisGame.csproj.CopyComplete
